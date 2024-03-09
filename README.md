@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Isaiah Rafael Pena and I'm a BSIT studen from SPUS</h2>
+<h2 align="left">Hi 👋! My name is Isaiah Rafael Pena and I'm a BSIT student from SPUS</h2>
 
 ###
 
